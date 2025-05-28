@@ -1,4 +1,5 @@
 Hi there! Im Aditya
+
 Welcome to my GitHub!
 
 I’m a curious coder who loves building things and learning new tech.
